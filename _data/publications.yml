@@ -3,9 +3,9 @@ main:
   - title: Unpacking the association between growth mindset, L2 grit, conscientiousness, and foreign language performance in a Chinese EFL context.
     authors: Hong Shi* & <strong>Wei Sun</strong> (*Corresponding authors; Supervisor as the first author)
     conference: International Journal of Applied Linguistics, 2025, Online first. https://doi.org/10.1111/ijal.12713 (SSCI, IF=1.5)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    pdf: ./assets/files/L2grit.pdf
+    bibtex: ./assets/js/L2gri.txt
+    image: ./assets/img/InJa.png
 
     
   - title: Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners. 
