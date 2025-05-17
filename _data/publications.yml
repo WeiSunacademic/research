@@ -9,13 +9,9 @@ main:
 
   - title: "Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners."
     authors: Hong Shi* & <strong>Wei Sun</strong> (Supervisor as the first author)
-    conference_short: CVPR
     conference: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773 (SSCI, IF=2.2)
     pdf: ./assets/files/ERWELLBEING.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./assets/js/ER.txt
-    notes: Oral Presentation
     image: ./assets/img/JADP.png
     
  
