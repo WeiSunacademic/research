@@ -41,7 +41,7 @@ main:
     conference: Frontiers in Education, 2024, 9, 1334031. https://doi.org/10.3389/feduc.2024.1334031 (ESCI, IF=1.9)
     pdf: ./assets/files/General.pdf
     bibtex: ./assets/js/Gene.txt
-    image: ./assets/img/General.png
+    image: ./assets/img/Gerneral.png
 
 
   - title: "Metaphorical conceptualizations of generative artificial intelligence use by Chinese university EFL learners."  
