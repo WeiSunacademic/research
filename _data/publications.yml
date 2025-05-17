@@ -32,27 +32,6 @@ main:
     image: ./assets/img/teaser_example_2.png
 
 
-  - title: Teacher autonomy support predicts intended effort among EFL learners: the mediating role of hope and shame. 
-    authors: Yi Yan, <strong>Wei Sun*</strong>, & Hong Shi
-    conference: Current Psychology, 2024, 43(42), 32596-32609. https://doi.org/10.1007/s12144-024-06814-8 (SSCI, IF=2.5)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
 
-
-  - title: Understanding L2 generalist teachers’ motivation for teaching EFL in China’s rural elementary schools. 
-    authors: <strong>Wei Sun*</strong> & Hong Shi*
-    conference: Frontiers in Education, 2024, 9, 1334031. https://doi.org/10.3389/feduc.2024.1334031 (ESCI, IF=1.9)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-
-
-  - title: Metaphorical conceptualizations of generative artificial intelligence use by Chinese university EFL learners.  
-    authors: Yi Yan*, <strong>Wei Sun*</strong>, & Xiufeng Zhao (Co-first author)
-    conference: Frontiers in Education, 2024, 9, 1430494. https://doi.org/10.3389/feduc.2024.1430494 (ESCI, IF=1.9)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
 
     
