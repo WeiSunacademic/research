@@ -1,20 +1,22 @@
 main:
 
   - title: Unpacking the association between growth mindset, L2 grit, conscientiousness, and foreign language performance in a Chinese EFL context.
-    authors: Hong Shi* & <strong>Wei Sun</strong>,  (*Corresponding authors)
+    authors: Hong Shi* & <strong>Wei Sun</strong>  (*Corresponding authors)
     Journal: International Journal of Applied Linguistics, 2025, Online first. https://doi.org/10.1111/ijal.12713 
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     Citation: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example_2.png
-  
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    
+  - title: Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners.
+    authors: Hong Shi* & <strong>Wei Sun</strong>  
+    Journal: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    Citation: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/teaser_example_2.png 
+    
+  - title: Fostering success in online English education: Exploring the effects of ICT literacy, online learning self-efficacy, and motivation on deep learning. 
+    authors: <strong>Wei Sun*<strong> & Hong Shi
+    Journal: Education and Information Technologies, 2024, 29(18), 24899-24920. https://doi.org/10.1007/s10639-024-12827-4 
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    Citation: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/teaser_example_2.png
