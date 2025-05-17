@@ -7,6 +7,13 @@ main:
     bibtex: ./assets/js/L2gri.txt
     image: ./assets/img/InJa.png
 
+  - title: Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners. 
+    authors: Hong Shi* & <strong>Wei Sun</strong> (Supervisor as the first author)
+    conference: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773 (SSCI, IF=2.2)
+    pdf: ./assets/files/ERWELLBEING.pdf
+    bibtex: ./assets/js/ER.txt
+    image: ./assets/img/JADP.png
+
     
 
 
