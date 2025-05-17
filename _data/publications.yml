@@ -21,7 +21,35 @@ main:
     bibtex: ./assets/js/Edu.txt
     image: ./assets/img/EIT.png
 
-    
+  - title: "Contributions of Ideal L2 Self, Grit, and Boredom to Engagement in an EFL Context: A Structural Equation Modeling Approach." 
+    authors: <strong>Wei Sun</strong>, Hong Shi*, & Yi Yan
+    conference: The Asia-Pacific Education Researcher, 2024, 33(1), 1161-1172. https://doi.org/10.1007/s40299-023-00786-2 (SSCI, IF=3.6)
+    pdf: ./assets/files/Taper.pdf
+    bibtex: ./assets/js/Tap.txt
+    image: ./assets/img/TAPER.png
+
+  - title: "Teacher autonomy support predicts intended effort among EFL learners: the mediating role of hope and shame." 
+    authors: Yi Yan, <strong>Wei Sun*</strong>, & Hong Shi
+    conference: Current Psychology, 2024, 43(42), 32596-32609. https://doi.org/10.1007/s12144-024-06814-8 (SSCI, IF=2.5)
+    pdf: ./assets/files/Current.pdf
+    bibtex: ./assets/js/Cur.txt
+    image: ./assets/img/CP.png
+
+
+  - title: "Understanding L2 generalist teachers’ motivation for teaching EFL in China’s rural elementary schools." 
+    authors: <strong>Wei Sun*</strong> & Hong Shi*
+    conference: Frontiers in Education, 2024, 9, 1334031. https://doi.org/10.3389/feduc.2024.1334031 (ESCI, IF=1.9)
+    pdf: ./assets/files/General.pdf
+    bibtex: ./assets/js/Gene.txt
+    image: ./assets/img/General.png
+
+
+  - title: "Metaphorical conceptualizations of generative artificial intelligence use by Chinese university EFL learners."  
+    authors: Yi Yan*, <strong>Wei Sun*</strong>, & Xiufeng Zhao (Co-first author)
+    conference: Frontiers in Education, 2024, 9, 1430494. https://doi.org/10.3389/feduc.2024.1430494 (ESCI, IF=1.9)
+    pdf: ./assets/files/Metaphora.pdf
+    bibtex: ./assets/js/Meta.txt
+    image: ./assets/img/metaphor.png
 
 
 
