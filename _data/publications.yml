@@ -8,20 +8,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     
 
-  - title: Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners. 
-    authors: Hong Shi* & <strong>Wei Sun</strong> (Supervisor as the first author)
-    conference: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773 (SSCI, IF=2.2)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
 
-
-  - title: Fostering success in online English education: Exploring the effects of ICT literacy, online learning self-efficacy, and motivation on deep learning.
-    authors: <strong>Wei Sun*</strong> & Hong Shi*  
-    conference: Education and Information Technologies, 2024, 29(18), 24899-24920. https://doi.org/10.1007/s10639-024-12827-4 (SSCI, IF=4.8)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
 
 
 
