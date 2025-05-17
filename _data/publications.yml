@@ -24,12 +24,7 @@ main:
     image: ./assets/img/teaser_example_2.png
 
 
-  - title: Contributions of Ideal L2 Self, Grit, and Boredom to Engagement in an EFL Context: A Structural Equation Modeling Approach. 
-    authors: <strong>Wei Sun</strong>, Hong Shi*, & Yi Yan
-    conference: The Asia-Pacific Education Researcher, 2024, 33(1), 1161-1172. https://doi.org/10.1007/s40299-023-00786-2 (SSCI, IF=3.6)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+
 
 
 
