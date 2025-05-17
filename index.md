@@ -19,16 +19,16 @@ Specifically, I am interested in the role of IDs in:
 - *Sep. 2022-Jun. 2025*, Master of Arts in Applied Linguistics, School of Foreign Languages, China University of Petroleum-Beijing
 - *Sep. 2017-Jun. 2021*, Bachelor of Arts in English Language and Literature, School of Foreign Languages, China University of Petroleum-Beijing
 
-## Peer reviewer
-•	The Modern Language Journal (SSCI, Q1 Top)
-•	Studies in Second Language Learning and Teaching (SSCI, Q1)
-•	Journal of Multilingual and Multicultural Development (SSCI, Q1)
-•	Porta Linguarum (SSCI, Q2)
-•	TESL-EJ (Scopus, Q1)
+## Service
+### Peer reviewer
+- The Modern Language Journal (SSCI, Q1 Top)
+- Studies in Second Language Learning and Teaching (SSCI, Q1)
+- Journal of Multilingual and Multicultural Development (SSCI, Q1)
+- Porta Linguarum (SSCI, Q2)
+- TESL-EJ (Scopus, Q1)
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
 
 ## Research project
 - *Sep. 2024 - Jun. 2025*  Humanities and Social Science Fund of Ministry of Education of China (24YJC740060; Project member)
