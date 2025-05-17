@@ -14,7 +14,12 @@ main:
     bibtex: ./assets/js/ER.txt
     image: ./assets/img/JADP.png
     
- 
+  - title: "Fostering success in online English education: Exploring the effects of ICT literacy, online learning self-efficacy, and motivation on deep learning."
+    authors: <strong>Wei Sun*</strong> & Hong Shi*  
+    conference: Education and Information Technologies, 2024, 29(18), 24899-24920. https://doi.org/10.1007/s10639-024-12827-4 (SSCI, IF=4.8)
+    pdf: ./assets/files/EAIT.pdf
+    bibtex: ./assets/js/Edu.txt
+    image: ./assets/img/EIT.png
 
     
 
