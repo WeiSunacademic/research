@@ -4,14 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a master’s student specializing in second language acquisition, with a research focus on the **psychology of language learning and teaching**. My research explores how both **cognitive** (e.g., working memory) and **non-cognitive** (e.g., emotions, motivation) **individual differences (IDs)** shape the language learning process in various instructional contexts. By drawing on perspectives from psychology (educational, cognitive, and positive psychology), educational technology, and applied linguistics, my work aims to advance our understanding of how to more effectively support second language learners in diverse learning environments.
+I am a Ph.D. student specializing in second language acquisition, with a research focus on the **psychology of language learning and teaching**. My research explores how **non-cognitive** (e.g., emotions, motivation) **individual differences (IDs)** shape the language learning process in various instructional contexts. By drawing on perspectives from psychology (educational, cognitive, and positive psychology), educational technology, and applied linguistics, my work aims to advance our understanding of how to more effectively support second language learners in diverse learning environments.
 
 ## Research Interests
 Specifically, I am interested in the role of IDs in:
 - **L2 writing** (e.g., written production and feedback)
 - **Educational technology** (e.g., online learning; GenAI-assisted language learning and teaching)
-- **Task-based language teaching** (e.g., IDs in TBLT)
-- **Corpus linguistics and its applications in L2 instruction**
 - **Teacher education and professonal development** (e.g., L2 generalist teacher’ motivation)
 
 ## Education
@@ -24,6 +22,7 @@ Specifically, I am interested in the role of IDs in:
 - The Modern Language Journal (SSCI, Q1 Top)
 - Studies in Second Language Learning and Teaching (SSCI, Q1)
 - Journal of Multilingual and Multicultural Development (SSCI, Q1)
+- Innovation in Language Learning and Teaching (SSCI, Q1)
 - Porta Linguarum (SSCI, Q2)
 - TESL-EJ (Scopus, Q1)
 
