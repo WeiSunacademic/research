@@ -2,35 +2,35 @@ main:
 
   - title: Unpacking the association between growth mindset, L2 grit, conscientiousness, and foreign language performance in a Chinese EFL context.
     authors: Hong Shi* & <strong>Wei Sun</strong> (*Corresponding authors; Supervisor as the first author)
-    conference: International Journal of Applied Linguistics, 2025, Online first. https://doi.org/10.1111/ijal.12713 (SSCI, IF=1.5)
+    conference: International Journal of Applied Linguistics, 2025, Online first. https://doi.org/10.1111/ijal.12713 (SSCI, Q1)
     pdf: ./assets/files/L2grit.pdf
     bibtex: ./assets/js/L2gri.txt
     image: ./assets/img/InJa.png
 
   - title: "Exploring emotional regulation, well-being, and academic engagement: A comparative study among Chinese high school and college EFL learners."
     authors: Hong Shi* & <strong>Wei Sun</strong> (Supervisor as the first author)
-    conference: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773 (SSCI, IF=2.2)
+    conference: Journal of Applied Developmental Psychology, 2025, 98, 101773. https://doi.org/10.1016/j.appdev.2025.101773 (SSCI, Q3)
     pdf: ./assets/files/ERWELLBEING.pdf
     bibtex: ./assets/js/ER.txt
     image: ./assets/img/JADP.png
     
   - title: "Fostering success in online English education: Exploring the effects of ICT literacy, online learning self-efficacy, and motivation on deep learning."
     authors: <strong>Wei Sun*</strong> & Hong Shi*  
-    conference: Education and Information Technologies, 2024, 29(18), 24899-24920. https://doi.org/10.1007/s10639-024-12827-4 (SSCI, IF=4.8)
+    conference: Education and Information Technologies, 2024, 29(18), 24899-24920. https://doi.org/10.1007/s10639-024-12827-4 (SSCI, Q1)
     pdf: ./assets/files/EAIT.pdf
     bibtex: ./assets/js/Edu.txt
     image: ./assets/img/EIT.png
 
   - title: "Contributions of Ideal L2 Self, Grit, and Boredom to Engagement in an EFL Context: A Structural Equation Modeling Approach." 
     authors: <strong>Wei Sun</strong>, Hong Shi*, & Yi Yan
-    conference: The Asia-Pacific Education Researcher, 2024, 33(1), 1161-1172. https://doi.org/10.1007/s40299-023-00786-2 (SSCI, IF=3.6)
+    conference: The Asia-Pacific Education Researcher, 2024, 33(1), 1161-1172. https://doi.org/10.1007/s40299-023-00786-2 (SSCI, Q1)
     pdf: ./assets/files/Taper.pdf
     bibtex: ./assets/js/Tap.txt
     image: ./assets/img/TAPER.png
 
   - title: "Teacher autonomy support predicts intended effort among EFL learners: the mediating role of hope and shame." 
     authors: Yi Yan, <strong>Wei Sun*</strong>, & Hong Shi
-    conference: Current Psychology, 2024, 43(42), 32596-32609. https://doi.org/10.1007/s12144-024-06814-8 (SSCI, IF=2.5)
+    conference: Current Psychology, 2024, 43(42), 32596-32609. https://doi.org/10.1007/s12144-024-06814-8 (SSCI, Q1)
     pdf: ./assets/files/Current.pdf
     bibtex: ./assets/js/Cur.txt
     image: ./assets/img/CP.png
@@ -38,7 +38,7 @@ main:
 
   - title: "Understanding L2 generalist teachers’ motivation for teaching EFL in China’s rural elementary schools." 
     authors: <strong>Wei Sun*</strong> & Hong Shi*
-    conference: Frontiers in Education, 2024, 9, 1334031. https://doi.org/10.3389/feduc.2024.1334031 (ESCI, IF=1.9)
+    conference: Frontiers in Education, 2024, 9, 1334031. https://doi.org/10.3389/feduc.2024.1334031 (ESCI)
     pdf: ./assets/files/General.pdf
     bibtex: ./assets/js/Gene.txt
     image: ./assets/img/Gerneral.png
@@ -46,7 +46,7 @@ main:
 
   - title: "Metaphorical conceptualizations of generative artificial intelligence use by Chinese university EFL learners."  
     authors: Yi Yan*, <strong>Wei Sun*</strong>, & Xiufeng Zhao (Co-first author)
-    conference: Frontiers in Education, 2024, 9, 1430494. https://doi.org/10.3389/feduc.2024.1430494 (ESCI, IF=1.9)
+    conference: Frontiers in Education, 2024, 9, 1430494. https://doi.org/10.3389/feduc.2024.1430494 (ESCI)
     pdf: ./assets/files/Metaphora.pdf
     bibtex: ./assets/js/Meta.txt
     image: ./assets/img/metaphor.png
