@@ -23,6 +23,7 @@ Specifically, I am interested in the role of IDs in:
 - Studies in Second Language Learning and Teaching (SSCI, Q1)
 - Journal of Multilingual and Multicultural Development (SSCI, Q1)
 - Innovation in Language Learning and Teaching (SSCI, Q1)
+- International Journal of Applied Linguistics (SSCI, Q1)
 - Porta Linguarum (SSCI, Q2)
 - TESL-EJ (Scopus, Q1)
 
@@ -39,6 +40,7 @@ Specifically, I am interested in the role of IDs in:
 
 ## Honors, Scholarship, & Awards
 - *2021* Outstanding Bachelor’s Thesis in Beijing
+- *2025* Outstanding Master’s Thesis
 - *2023* National Scholarship for Postgraduates (¥20,000)
 - *2023* First-Class Scholarship for Postgraduates (¥9,600)
 - *2022* First-Class Scholarship for Postgraduates (¥9,600)
