@@ -1,5 +1,11 @@
 main:
-
+  - title: First-Year Chinese College EFL Learners’ Identity Transformation Through *Perezhivanie*
+    authors: Hong Shi* & <strong>Wei Sun</strong> (*Corresponding authors; Supervisor as the first author)
+    conference: Journal of Language, Identity & Education, 2025, Online first. https://doi.org/10.1080/15348458.2025.2567374 (SSCI, Q1)
+    pdf: ./assets/files/perezhivanie.pdf
+    bibtex: ./assets/js/perezhivanie.txt
+    image: ./assets/img/perezhivanie.png
+    
   - title: Unpacking the association between growth mindset, L2 grit, conscientiousness, and foreign language performance in a Chinese EFL context.
     authors: Hong Shi* & <strong>Wei Sun</strong> (*Corresponding authors; Supervisor as the first author)
     conference: International Journal of Applied Linguistics, 2025, Online first. https://doi.org/10.1111/ijal.12713 (SSCI, Q1)
